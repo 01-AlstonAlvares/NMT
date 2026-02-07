@@ -4,7 +4,7 @@
 
 **Dual Attention Seq2Seq Translation Portal**
 
-**Developer:** Alston Alvares\
+**Name:** Alston Alvares\
 **Student ID:** st126488
 
 ------------------------------------------------------------------------
