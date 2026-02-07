@@ -16,7 +16,7 @@ for Indian Languages)** dataset, specifically the **English-Marathi
 (en-mr)** parallel corpus.
 
 -   **Source:** Reputable public database provided by\
-    http://rtweb.it.iitb.ac.in/main/PMIndia/
+    [http://rtweb.it.iitb.ac.in/main/PMIndia/](https://data.statmt.org/pmindia/v1/parallel/)
 -   **Credit:** We extend our gratitude to the researchers and
     organizations at the **Center for Indian Language Technology
     (CFILT)** and **IIT Bombay** for curating and making this valuable
